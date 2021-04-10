@@ -1,19 +1,15 @@
-/** test of commit with changes**/
-/**** test of commit with minimal changes*****/
+
 body{
   margin:0px;
+  text-align: center;
+font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 }
-
-
-
-
-
-
 
 /***************************class STYLES*************************/
 .top-container{
   background-color: #71c9ce;
-
+  position: relative;
+  padding-top: 100px;
   margin:0;
 
 }
@@ -27,8 +23,23 @@ body{
   background-color: blue;
   height:200px;
   width:200px;
+}
+
+  .top-cloud{
+    position:absolute;
+    right:300px;
+    top:50px;
+  }
 
 
+.bottom-cloud{
+  position:absolute;
+left:300px;
+bottom:300px;
+}
+
+.underlined{
+  text-decoration: underline;
 }
 
 

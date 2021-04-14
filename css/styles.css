@@ -46,7 +46,12 @@ h3 {
 .underlined {
   text-decoration: underline;
 }
+.profile_pic{
+  border-radius: 250px;
+
+}
 .pic1{
+  border-radius: 400px;
   width:400px;
   height:400px;
 }

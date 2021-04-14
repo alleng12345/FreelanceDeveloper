@@ -46,6 +46,10 @@ h3 {
 .underlined {
   text-decoration: underline;
 }
+.pic1{
+  width:400px;
+  height:400px;
+}
 
 /*************************id STYLES****************************/
 #myName {

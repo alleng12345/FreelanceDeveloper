@@ -1,5 +1,5 @@
 body {
-
+color:#40514E;
   margin: 0px;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -17,12 +17,15 @@ h2 {
   font-weight: normal;
   font-size: 2.5rem;
   margin-top: 0;
+
+
   font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
   color: #11999E;
   margin-top: 0;
+
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -42,7 +45,8 @@ color:#EAF6F6;
 
 }
 
-a {
+p {
+  line-height: 3;
 
 }
 
@@ -56,7 +60,7 @@ a {
 }
 
 .middle-container {
-  color: #40514E;
+
   margin:0;
   padding:10%;
 
@@ -91,6 +95,13 @@ font-size: 1.5em;
   text-decoration: underline;
   line-height: 2;
 }
+.intro{
+  margin:auto;
+  width: 40%;
+
+
+
+}
 
 .profile_pic {
   margin-bottom: 30px;
@@ -118,7 +129,7 @@ font-size: 1.5em;
   margin: 100px auto 100px auto;
   width:50%;
   text-align: left;
-  line-height: 2;
+
 }
 .contact-me{
   margin:0;

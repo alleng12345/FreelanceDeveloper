@@ -122,7 +122,8 @@ font-size: 1.5em;
 }
 .contact-me{
   margin:0;
-  padding:30px;
+  top-padding:10%;
+  padding-bottom: 10%;
 }
 
 .CONTACT_ME_BUTTON {
